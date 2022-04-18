@@ -1,7 +1,7 @@
 {
   "name": "fullstack-portfolio",
   "version": "0.1.0",
-  "homepage": "https://taykianyick.github.io/",
+  "homepage": "https://taykianyick.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
