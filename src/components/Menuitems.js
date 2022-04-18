@@ -12,7 +12,7 @@ const MenuItems = ({ showMenu, active, links }) => {
           : "hidden"
       }
     >
-      <RiCloseLine onClick={showMenu} className="cursor-pointer" />
+      <RiCloseLine onClick={showMenu} className="cursor-pointer scale-150" />
       {links.map((link) => (
         <li
           key={link.name}
@@ -20,7 +20,7 @@ const MenuItems = ({ showMenu, active, links }) => {
         >
           <a
             href={link.link}
-            className="text-gray-800 hover:border-b-2 hover:border-black transition-"
+            className="text-gray-800 hover:border-b-2 hover:border-black transition-" onClick={showMenu}
           >
             {link.name}
           </a>
