@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4715f62a.css",
+    "main.js": "/static/js/main.8d12618a.js",
+    "static/js/787.372f5d56.chunk.js": "/static/js/787.372f5d56.chunk.js",
+    "static/media/selfphoto.JPG": "/static/media/selfphoto.99d1dafd86dce75b8e8f.JPG",
+    "static/media/calorice1.PNG": "/static/media/calorice1.0c4b141314fceed4fad5.PNG",
+    "static/media/unified6.PNG": "/static/media/unified6.79fef8974e896572d006.PNG",
+    "static/media/calorice4.PNG": "/static/media/calorice4.0bfdd89ee3de00f383c0.PNG",
+    "static/media/unified1.PNG": "/static/media/unified1.19993abcaf71d664038e.PNG",
+    "static/media/calorice3.PNG": "/static/media/calorice3.99185c92809f05c772fe.PNG",
+    "static/media/calorice6.PNG": "/static/media/calorice6.1f678b049f2c42da078f.PNG",
+    "static/media/calorice2.PNG": "/static/media/calorice2.b52a848760298a2796ee.PNG",
+    "static/media/unified3.PNG": "/static/media/unified3.565575041df0c21d7574.PNG",
+    "static/media/unified2.PNG": "/static/media/unified2.e85b47d87fb506aaa799.PNG",
+    "static/media/unified4.PNG": "/static/media/unified4.b3a9f781d888d5ffd2ee.PNG",
+    "static/media/tailwind.png": "/static/media/tailwind.46d61abb086e8a8bd39e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4715f62a.css.map": "/static/css/main.4715f62a.css.map",
+    "main.8d12618a.js.map": "/static/js/main.8d12618a.js.map",
+    "787.372f5d56.chunk.js.map": "/static/js/787.372f5d56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4715f62a.css",
+    "static/js/main.8d12618a.js"
+  ]
+}
