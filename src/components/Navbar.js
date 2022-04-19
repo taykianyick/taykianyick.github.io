@@ -19,7 +19,7 @@ function Navbar() {
       setActive(!active)
   }
   return (
-    <div className="fixed w-full text-black flex justify-between p-4 items-center bg-white z-50">
+    <div className="relative w-full text-black flex justify-between p-4 items-center bg-white z-50">
       <ScrollIntoView
     selector="#intro" >
 

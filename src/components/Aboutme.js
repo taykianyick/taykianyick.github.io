@@ -5,10 +5,10 @@ function Aboutme() {
   return (
     <div
       id="about"
-      className=" w-full flex flex-col items-center  px-4 justify-center "
+      className=" w-full flex flex-col items-center  px-4 md:justify-center "
     >
       <h1 className="mt-36 text-5xl md:text-7xl font-medium text-center">About Me</h1>
-      <div className="mx-auto items-center flex flex-col md:flex-row ">
+      <div className=" items-center flex flex-col md:flex-row ">
         
             <img src={selfphoto} className="m-10 w-80 h-80 border-4 border-solid border-black rounded-r-lg "/>
         

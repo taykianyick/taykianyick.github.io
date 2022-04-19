@@ -15,12 +15,15 @@ function App() {
   return (
     <>
       <Navbar/>
+      <div className="mx-auto w-full">
       <Intro/>
       <Portfolio/>
       <Aboutme/>
       <Skills/>
       <Resume/>
       <Contact/>
+      </div>
+    
       <Footer/>
       
     </>
