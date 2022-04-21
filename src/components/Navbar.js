@@ -11,7 +11,7 @@ function Navbar() {
     { name: "RESUME", link: "#resume" },
     { name: "CONTACT", link: "#contact" },
     { name: "GITHUB", link: "https://github.com/taykianyick" },
-    { name: "LINKEDIN", link: "https://www.linkedin.com/in/kian-yick-tay-2096501ab/" },
+    { name: "LINKEDIN", link: "https://www.linkedin.com/in/kianyicktay/" },
   ];
   const [active,setActive] = useState(false)
 
