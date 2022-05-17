@@ -12,6 +12,8 @@ import git from "../images/tech/git.png";
 import github from "../images/tech/github.png";
 import vscode from "../images/tech/vscode.png";
 import postman from "../images/tech/postman.png";
+import mongodb from "../images/tech/mongodb.png";
+import expressjs from "../images/tech/expressjs.png";
 
 function Skills() {
   let frontend = [
@@ -23,9 +25,12 @@ function Skills() {
   ];
   let backend = [
     { name: "NODEJS", img: nodejs },
+    { name: "ExpressJS", img: expressjs },
+    { name: "MongoDB", img: mongodb },
     { name: "PHP", img: php },
     { name: "GOLANG", img: golang },
     { name: "MYSQL", img: mysql },
+   
   ];
 
   let tools = [
